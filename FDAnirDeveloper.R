@@ -612,5 +612,7 @@ if (subleng$Rank[1]==1){corner="bottomright"}
 return(corner)
 }  # end of function positionLegend
 
+2020.11.11.
+
 
 
